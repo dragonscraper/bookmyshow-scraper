@@ -1,0 +1,4 @@
+beautifulsoup4==4.13.3
+curl_cffi==0.13.0
+pycryptodome==3.21.0
+pygments==2.18.0

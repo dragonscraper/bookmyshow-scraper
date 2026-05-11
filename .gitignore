@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checkers
+.mypy_cache/
+.pyre/
+.ruff_cache/
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# Local data / exports
+data/
+output/
+exports/
+tmp/
+temp/
+
+# Scraper artifacts
+cookies.json
+sessions/
+cache/
+
+# SQLite / DB
+*.sqlite3
+*.db
+
+# Misc
+*.bak
+*.tmp
